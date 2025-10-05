@@ -30,8 +30,8 @@ When I'm not coding, I enjoy exploring tools, learning new skills, and building 
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=uitgeteld&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="My GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uitgeteld&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=uitgeteld&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="My GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uitgeteld&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -39,14 +39,14 @@ When I'm not coding, I enjoy exploring tools, learning new skills, and building 
 ## 🔥 Streak Stats  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=uitgeteld&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="200em" src="https://streak-stats.demolab.com?user=uitgeteld&theme=nord&hide_border=true" alt="My GitHub Streaks" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=uitgeteld&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=uitgeteld&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
 
