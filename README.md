@@ -46,7 +46,11 @@ When I'm not coding, I enjoy exploring tools, learning new skills, and building 
 
 ## 🏆 GitHub Trophies  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=uitgeteld&theme=nord&column=10)](https://github.com/ryo-ma/github-profile-trophy)  
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=uitgeteld&theme=nord&column=7" alt="trophies" />
+  </a>
+</p>
 
 ---
 
