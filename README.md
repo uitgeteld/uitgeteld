@@ -34,8 +34,8 @@ When I'm not coding, I enjoy exploring tools, learning new skills, and building 
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=uitgeteld&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="My GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uitgeteld&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=uitgeteld&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="My GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uitgeteld&layout=compact&theme=nord&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
